@@ -1,8 +1,8 @@
 <!-- README.md -->
 
-<p align="center">
+<h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=22C55E&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B+I'm+Kittiphit+Boonying;Automation+Engineering+@+KMUTT;AI+%26+Fullstack+Developer;Let's+Build+Cool+Things!+%F0%9F%9A%80" alt="Typing SVG" />
-</p>
+</h1>
 
 <p align="center" style="font-size: 1.1rem; text-shadow: 0 0 6px white;">
   💡 Automation Engineering @ KMUTT &nbsp; | &nbsp; 💻 Fullstack Dev & AI Enthusiast &nbsp; | &nbsp; 📍 Bangkok, Thailand  
