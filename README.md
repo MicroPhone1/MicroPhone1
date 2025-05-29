@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  🔧 KMUTT | 🤖 AI & Embedded Systems | 🌐 Bangkok, Thailand
+  🔧 KMUTT(King Mongkut's University of Technology Thonburi) | 🤖 AI & Embedded Systems | 🌐 Bangkok, Thailand
 </p>
 
 <p align="center">
