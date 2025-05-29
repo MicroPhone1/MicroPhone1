@@ -1,4 +1,4 @@
-<h1 align="center">⚡ <strong>Kittiphit Boonying</strong></h1>
+<h1 align="center">⚡ <strong>Kittiphit Boonying</strong> ⚡</h1>
 
 <p align="center">
   <em>Automation Engineer • Fullstack Developer • AI Architect</em><br/>
